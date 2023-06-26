@@ -16,5 +16,6 @@ where `your_output_dir` will be your working directory.
 After that, you can run the jupter notebook sampled_mols.ipynb.
 
 Credits:
+
 https://github.com/arhamshah/SolubilityPrediction/blob/master/PredictionModelWaterSolubility.ipynb
 https://github.com/shiwentao00/Molecule-RNN/tree/main

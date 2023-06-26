@@ -17,6 +17,6 @@ After that, you can run the jupter notebook sampled_mols.ipynb.
 
 Credits:
 
-https://github.com/arhamshah/SolubilityPrediction/blob/master/PredictionModelWaterSolubility.ipynb
+https://github.com/arhamshah/SolubilityPrediction/
 
-https://github.com/shiwentao00/Molecule-RNN/tree/main
+https://github.com/shiwentao00/Molecule-RNN/

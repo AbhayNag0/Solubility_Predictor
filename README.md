@@ -6,6 +6,7 @@ Dependencies:
 1. Pytorch
 2. Pycaret
 3. Rdkit
+4. Selfies
 
 To use this repo, run
 

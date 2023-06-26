@@ -1,4 +1,4 @@
-# Solubility_Molecule_Maker
+# Soluble_Molecule_Maker
 I have made a jupyter notebook that uses a Recurrent Neural Network Model to generate molecules. From those molecules, there is a solubility predictor which seperates out the soluble molecules and 
 hence, we can generate soluble molecules.
 

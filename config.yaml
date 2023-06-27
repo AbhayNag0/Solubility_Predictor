@@ -1,5 +1,5 @@
 batch_size: 512
-dataset_dir: ./dataset/chembl28-cleaned.smi
+dataset_dir: ./chembl28-cleaned.smi
 learning_rate: 0.001
 num_epoch: 100
 out_dir: ./results/run_1/
